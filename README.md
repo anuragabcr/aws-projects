@@ -11,7 +11,7 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 
 **Technologies Used**: AWS S3 Bucket, Route 53, Certificate Manager, and CloudFront
 
-**Detailed Blod**: https://medium.com/@anuragabcr/hosting-your-resume-on-aws-e8dd9de7173f
+**Detailed Blog**: https://medium.com/@anuragabcr/hosting-your-resume-on-aws-e8dd9de7173f
 
 
 ## Getting Started
