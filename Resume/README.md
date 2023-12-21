@@ -4,8 +4,7 @@
 
 This repository guides you through the process of hosting your resume on Amazon Web Services (AWS) using various services such as S3, Route 53, Certificate Manager, and CloudFront. By following these steps, you'll be able to create a secure and easily accessible resume website.
 
-Estimated Reading Time: 6 minutes
-Estimated Setup Time: 1 hour
+### [Check the Detailed Blog](https://medium.com/@anuragabcr/hosting-your-resume-on-aws-e8dd9de7173f "Detailed Blog")
 
 ## Table of Contents
 
