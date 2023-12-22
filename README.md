@@ -4,6 +4,7 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 
 ### Table of Contents 
 1. [Resume](https://github.com/anuragabcr/aws-projects/tree/main/Resume "Resume")
+2. [WildRydes](https://github.com/anuragabcr/aws-projects/tree/main/WildRydes "Ride on Unicorn")
 
 ## Project Descriptions
 ### Project 1: Resume
@@ -13,6 +14,12 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 
 **Detailed Blog**: https://medium.com/@anuragabcr/hosting-your-resume-on-aws-e8dd9de7173f
 
+### Project 2: WildRydes
+**Description**: Hosting a frontend website on AWS Amplify while integrating essential AWS services to enhance functionality and security.
+
+**Technologies Used**: AWS Amplify, Cognito, API Gateway, Lambda Function, DynamoDB and CodeCommit
+
+**Detailed Blog**: https://medium.com/@anuragabcr/hosting-frontend-website-on-aws-amplify-f2c699bf62f0
 
 ## Getting Started
 1. Clone the Repository:
