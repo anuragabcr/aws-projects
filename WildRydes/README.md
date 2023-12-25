@@ -4,7 +4,7 @@
 
 This guide takes you through the process of hosting a frontend website on AWS Amplify, leveraging several AWS services to enhance functionality and security. The application architecture involves AWS Amplify for hosting, AWS Cognito for user authentication, DynamoDB for data storage, Lambda functions for CRUD operations, and API Gateway for access to those functions.
 
-Estimated Reading Time: 6 minutes
+[Go to medium blog for detailed Guide](https://medium.com/@anuragabcr/hosting-frontend-website-on-aws-amplify-f2c699bf62f0)
 
 ## Table of Contents
 
