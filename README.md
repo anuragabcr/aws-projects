@@ -5,6 +5,7 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 ### Table of Contents 
 1. [Resume](https://github.com/anuragabcr/aws-projects/tree/main/Resume "Resume")
 2. [WildRydes](https://github.com/anuragabcr/aws-projects/tree/main/WildRydes "Ride on Unicorn")
+3. [REST API](https://github.com/anuragabcr/aws-projects/tree/main/REST%20API "Serverless REST API")
 
 ## Project Descriptions
 ### Project 1: Resume
@@ -20,6 +21,13 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 **Technologies Used**: AWS Amplify, Cognito, API Gateway, Lambda Function, DynamoDB and CodeCommit
 
 **Detailed Blog**: https://medium.com/@anuragabcr/hosting-frontend-website-on-aws-amplify-f2c699bf62f0
+
+### Project 3: REST API
+**Description**: Serverless REST API with AWS Lambda and DynamoDB
+
+**Technologies Used**: AWS Lambda function, DynamoDB, API Gateway, IAM Roles
+
+**Detailed Blog**: https://medium.com/@anuragabcr/creating-serverless-rest-api-using-aws-lambda-a9aaa462307b
 
 ## Getting Started
 1. Clone the Repository:
