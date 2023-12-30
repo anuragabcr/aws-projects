@@ -4,8 +4,9 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 
 ### Table of Contents 
 1. [Resume](https://github.com/anuragabcr/aws-projects/tree/main/Resume "Resume")
-2. [WildRydes](https://github.com/anuragabcr/aws-projects/tree/main/WildRydes "Ride on Unicorn")
+2. [WildRydes](https://github.com/anuragabcr/aws-projects/tree/main/WildRydes "Frontend deployment")
 3. [REST API](https://github.com/anuragabcr/aws-projects/tree/main/REST%20API "Serverless REST API")
+4. [Postagram](https://github.com/anuragabcr/aws-projects/tree/main/postagram "Full stack deployment")
 
 ## Project Descriptions
 ### Project 1: Resume
@@ -28,6 +29,13 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 **Technologies Used**: AWS Lambda function, DynamoDB, API Gateway, IAM Roles
 
 **Detailed Blog**: https://medium.com/@anuragabcr/creating-serverless-rest-api-using-aws-lambda-a9aaa462307b
+
+### Project 4: Postagram
+**Description**: Deploying a React & GraphQL Full-Stack App on AWS: Choosing the Right Services
+
+**Technologies Used**: AWS Amplify, AppSync, Cognito, S3 Bucket, CloudFormation, DynamoDB, IAM Roles
+
+**Detailed Blog**: https://medium.com/@anuragabcr/deploying-a-react-graphql-full-stack-app-on-aws-choosing-the-right-services-cb68d0dba29a
 
 ## Getting Started
 1. Clone the Repository:
