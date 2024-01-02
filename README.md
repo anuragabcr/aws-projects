@@ -7,6 +7,7 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 2. [WildRydes](https://github.com/anuragabcr/aws-projects/tree/main/WildRydes "Frontend deployment")
 3. [REST API](https://github.com/anuragabcr/aws-projects/tree/main/REST%20API "Serverless REST API")
 4. [Postagram](https://github.com/anuragabcr/aws-projects/tree/main/postagram "Full stack deployment")
+5. [Thumbnails Maker](https://github.com/anuragabcr/aws-projects/tree/main/Thumbnails%20Maker "Generate Image Thumbnails on S3 Upload with AWS Lambda")
 
 ## Project Descriptions
 ### Project 1: Resume
@@ -36,6 +37,13 @@ Welcome to the AWS Projects repository! This repository is dedicated to storing 
 **Technologies Used**: AWS Amplify, AppSync, Cognito, S3 Bucket, CloudFormation, DynamoDB, IAM Roles
 
 **Detailed Blog**: https://medium.com/@anuragabcr/deploying-a-react-graphql-full-stack-app-on-aws-choosing-the-right-services-cb68d0dba29a
+
+### Project 5: Thumbnails Maker
+**Description**: Generate Image Thumbnails on S3 Upload with AWS Lambda
+
+**Technologies Used**: AWS S3 Bucket, Lambda Functions
+
+**Detailed Blog**: https://medium.com/@anuragabcr/generate-image-thumbnails-on-s3-upload-with-aws-lambda-4cc8d4130dae
 
 ## Getting Started
 1. Clone the Repository:
