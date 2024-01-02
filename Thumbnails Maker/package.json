@@ -1,0 +1,14 @@
+{
+  "name": "thumbnails-maker",
+  "version": "1.0.0",
+  "description": "make thumbnail of images uploaded to s3 bucket using lambda function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anurag kumar",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.1"
+  }
+}
