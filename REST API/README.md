@@ -2,7 +2,7 @@
 
 This guide walks you through the process of creating a Serverless REST API in AWS using Lambda functions for CRUD functionality and DynamoDB as the NoSQL database. API Gateway is used to define routes and make the Lambda function accessible.
 
-[Go to medium blog for detailed Guide](https://medium.com/@anuragabcr/creating-serverless-rest-api-using-aws-lambda-a9aaa462307b)
+[Go to medium blog for detailed Guide](https://medium.com/@anuragabcr/website-visits-counter-using-docker-redis-f404a39f7a63)
 
 ## Table of Contents
 
